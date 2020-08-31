@@ -1,0 +1,15 @@
+{
+  "name": "making-tsne-diagrams",
+  "version": "1.0.0",
+  "description": "cookbook example for making a tsne diagram",
+  "main": "model.js",
+  "scripts": {
+    "start": "node model.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tsne-js": "^1.0.3"
+  }
+}
